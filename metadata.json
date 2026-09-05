@@ -1,0 +1,6 @@
+{
+  "name": "Wallet",
+  "description": "Secure offline wallet for credit, debit, and ID cards with biometric authentication, Keystore AES-256 encryption, encrypted backups, and Material You theming.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
